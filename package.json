@@ -1,0 +1,8 @@
+{
+  "name": "dryurdakul-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:preview": "node scripts/build-preview.mjs"
+  }
+}
